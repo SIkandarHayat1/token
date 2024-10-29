@@ -1,0 +1,6 @@
+{
+"name": "Paypal USD",
+"symbol": "Paypal USD",
+"description": "Just a test for how to name your token, again and again ;)",
+"image": "https://raw.githubusercontent.com/SIkandarHayat1/token/refs/heads/main/paypal-usd.png"
+}
